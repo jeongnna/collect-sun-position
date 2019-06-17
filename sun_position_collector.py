@@ -9,8 +9,8 @@ DATE = None
 HOURS = [13, 14]  # 0 ~ 23 integer
 MINUTES = [0, 30]  # 0 ~ 59 integer
 SECONDS = [0]  # 0 ~ 59 integer
-LAT = 37.54980
-LONG = 126.9671
+LAT = 37.54980  # latitude
+LONG = 126.9671  # longitude
 ELEVATION = 0
 ###
 
